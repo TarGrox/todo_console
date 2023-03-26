@@ -1,0 +1,1 @@
+clear; g++ -Wall -Wextra -Werror -O3 -o r_main main.cpp && ./r_main
